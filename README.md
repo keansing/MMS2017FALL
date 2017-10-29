@@ -15,6 +15,6 @@ This is a paragraph describing something about the assignment.
 
 -------------
 
-![123](MMS2017FALL/2bfa58d193f16aa04ed0824c8433b867ff023b66/photo.jpg)
+![123](MMS2017FALL/photo.jpg)
 
 -------------
