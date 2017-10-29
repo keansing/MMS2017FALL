@@ -18,3 +18,8 @@ This is a paragraph describing something about the assignment.
 ![123](MMS2017FALL/photo.jpg)
 
 -------------
+
+|    Title     |Column Title 1|Column Title 1|Column Title 1|
+|------------  |------------  |------------  |------------  |
+|  Row Title 1 |blah	        |blah	         |blah          |
+|Row Title 2   |blah	        |blah	         |blah          |
