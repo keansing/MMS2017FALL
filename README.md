@@ -15,6 +15,6 @@ This is a paragraph describing something about the assignment.
 
 -------------
 
-![这里随便填写 ] (MMS2017FALL/photo.jpg)
+![123](MMS2017FALL/photo.jpg)
 
 -------------
