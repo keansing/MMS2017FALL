@@ -12,3 +12,4 @@ This is a paragraph describing something about the assignment.
 <li>Numbered item 2</li>
 <li>Numbered item 3</li>
 </ol>
+MMS2017FALL/photo.jpg
