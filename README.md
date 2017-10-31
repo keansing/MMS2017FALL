@@ -16,15 +16,15 @@ This is a paragraph describing something about the assignment.
 -------------
 MMS2017FALL/photo.jpg
 ====
-![MMS2017FALL](MMS2017FALL/photo.jpg)
+![M](MMS2017FALL/photo.jpg)
 
-![123](MMS2017FALL/photo.jpg)
+![1](MMS2017FALL/photo.jpg)
 
 ![GitHub][github]
 
-[github]: http://www.elearn.ndhu.edu.tw/moodle/file.php/72180/photo.jpg "GitHub,Social Coding"
+[github]: MMS2017FALL/photo.jpg "GitHub,Social Coding"
 
-![GitHub](https://drive.google.com/file/d/0B_xauuD439kjTjducWpxMnVtWFk/view?usp=sharing)
+![GitHub](MMS2017FALL/photo.jpg)
 -------------
 
 |    Title     |Column Title 1|Column Title 1|Column Title 1|
