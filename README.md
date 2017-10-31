@@ -18,9 +18,6 @@ MMS2017FALL/photo.jpg
 ====
 ![M](https://raw.githubusercontent.com/keansing/MMS2017FALL/master/photo.jpg)
 
-![1](MMS2017FALL/photo.jpg)
-
-
 -------------
 
 |    Title     |Column Title 1|Column Title 1|Column Title 1|
