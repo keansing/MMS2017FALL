@@ -16,7 +16,7 @@ This is a paragraph describing something about the assignment.
 -------------
 MMS2017FALL/photo.jpg
 ====
-![M](MMS2017FALL/photo.jpg)
+![M]http://github.com/keansing/MMS2017FALL/raw/master/photo.jpg)
 
 ![1](MMS2017FALL/photo.jpg)
 
